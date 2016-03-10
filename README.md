@@ -13,6 +13,7 @@ Maven/ Spring/ Security/ JPA(Hibernate)/ REST(Jackson)/ Bootstrap(CSS)/ jQuery +
 ## <a href="description.md">Описание и план проекта</a>
 ### <a href="http://topjava.herokuapp.com/" target=_blank>Демо разрабатываемого приложения</a>
 ### <a href="https://github.com/JavaOPs/topjava/wiki">Требования к участникам, Wiki</a>
+### <a href="cv.md">Составление резюме, подготовка к интервью, поиск работы</a>
 
 Вводное занятие
 ===============
@@ -77,7 +78,6 @@ Optional
 ```
 Сделать реализация через Java 8 Stream API. Заменяйте forEach оператором stream.map(..)
 ```
-### <a href="cv.md">Составление резюме, подготовка к интервью, поиск работы</a>
 ### Ресурсы для подготовки к проекту 
 #### (желательно иметь представление для лучшего усвоения материала)
 
